@@ -1,11 +1,9 @@
 ##############################################################
 ##############################################################
 
-FFFF     A      CCC   EEEE    RRR  EEEE  CCC   OOO  N   N  
-F       A A    C   C  E       R  R E    C   C O   O NN  N
-FFF    A   A   C      EEE     RRR  EEE  C     O   O N N N
-F     AAAAAAA  C   C  E       R R  E    C   C O   O N  NN
-F    A       A  CCC   EEEE    R  R EEEE  CCC   OOO  N   N  
+
+Face Recognition Authentication
+
 
 ##############################################################
 ##############################################################
@@ -41,12 +39,9 @@ Codename:	xenial
 
 $ uname -a 
 Linux personal-ubuntu 4.10.0-37-generic #41~16.04.1-Ubuntu SMP Fri Oct 6 22:42:22 UTC 2017 i686 i686 i686 GNU/Linux
-===========================================================================
 
 
 Documentation:
---------------_
-
 
 Python Face Recognition can be found here: https://github.com/ageitgey/face_recognition
 
