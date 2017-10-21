@@ -1,1 +1,1 @@
-face_recognition ./ExampleDatabase/FaceDatabase/ ./ExampleDatabase/WhoIs/
+face_recognition ./FaceDatabase/ ./WhoIs/
